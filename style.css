@@ -1,0 +1,34 @@
+html {
+}
+header {
+  background-color: #79f28b;
+  text-align: center;
+  border: solid;
+  max-width: 100%;
+  width: 500px;
+  box-sizing: border-box;
+  margin: auto;
+  color: black;
+  margin-bottom: 25px;
+}
+body {
+  text-align: center;
+  background-color: #eaf0a9;
+}
+.listBox {
+  text-align: center;
+  width: 800px;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 25px;
+  margin: 15px auto;
+  color: black;
+  background-color: #8b79f2;
+  border: solid;
+  font-style: normal;
+  font-size: 20px;
+}
+footer {
+}
+.ul {
+}
